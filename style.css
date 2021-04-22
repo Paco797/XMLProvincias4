@@ -5,13 +5,23 @@ provincias{
     border-style: solid;
     background-color: goldenrod;
     margin: 5px;
+   
 }
 provincia{
-    display: block;
-    background-color: lightblue;
     
+    background-color: lightblue;
+    display: grid;
+}
+extensio{
+    margin-left: 15px;
 }
 nom{
+    
     font-weight: bold;
-    color: black;
+    color: red;
+    
+}
+
+poblacio,densidad,num_municipis{
+    display: none;
 }
