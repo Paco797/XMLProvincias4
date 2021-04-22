@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<provincias>
+<provincia posicio="1">
+  <nom>Castellón</nom>
+  <num_municipis>135</num_municipis>
+  <poblacio>585590</poblacio>
+  <extensio>6611km²</extensio>
+  <densidad>88,58 hab/km²</densidad>
+</provincia>
+<provincia posicio="2">
+  <nom>Valencia</nom>
+  <num_municipis>266</num_municipis>
+  <poblacio>2.591.875</poblacio>
+  <extensio>10.763 km²</extensio>
+  <densidad>240,81 hab/km²</densidad>
+</provincia>
+<provincia posicio="3">
+  <nom>Alicante</nom>
+  <num_municipis>141</num_municipis>
+  <poblacio>1.879.888 hab.</poblacio>
+  <extensio>10.763 km²</extensio>
+  <densidad>5.816 km²</densidad>
+</provincia>
+</provincias>
+

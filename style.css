@@ -1,0 +1,17 @@
+provincias{
+    padding: 10px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: goldenrod;
+    margin: 5px;
+}
+provincia{
+    display: block;
+    background-color: lightblue;
+    
+}
+nom{
+    font-weight: bold;
+    color: black;
+}
